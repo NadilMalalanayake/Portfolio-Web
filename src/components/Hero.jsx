@@ -39,7 +39,7 @@ const Hero = () => {
                 animate="visible"
                 className="border-b d-flex align-items-right justify-content-center rounded-lg"
                 style={{ border: '1px solid black',background:'linear-gradient(to right, black, darkblue)', padding:'0.8rem', color:'white', marginBottom:'15px'}}>
-                    <a className="btn btn-success" href="public/NadilMalalanayake_Cv Form.pdf" download="NM_CvForm.pdf" >CHECK RESUME</a>
+                    <a className="btn btn-success" href="NadilMalalanayake_Cv Form.pdf" download="NM_CvForm.pdf" >CHECK RESUME</a>
                 </motion.div>     
             </div>
         </div>
