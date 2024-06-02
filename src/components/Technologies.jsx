@@ -1,8 +1,9 @@
 import { RiReactjsLine } from "react-icons/ri";
 import { SiMongodb } from "react-icons/si";
-import { TbBrandNextjs } from "react-icons/tb";
+import { TbBrandPython } from "react-icons/tb";
 import { DiJsBadge } from "react-icons/di";
 import { DiJava } from "react-icons/di";
+import { SiFlutter } from "react-icons/si";
 import { motion} from "framer-motion";
 
 const iconVarients = (duration) => ({
@@ -45,7 +46,7 @@ const Technologies = () => {
             initial="initial"
             animate="animate"
             className="rounded-2xl border-4 border-neutral-800 p-4">
-                <TbBrandNextjs className="text-7xl" />
+                <TbBrandPython className="text-7xl text-blue-300" />
             </motion.div>
             <motion.div variants={iconVarients(2)}
             initial="initial"
@@ -58,6 +59,12 @@ const Technologies = () => {
             animate="animate"
              className="rounded-2xl border-4 border-neutral-800 p-4">
                 <DiJava className="text-7xl text-red-400" />
+            </motion.div>
+            <motion.div variants={iconVarients(2.5)}
+            initial="initial"
+            animate="animate"
+             className="rounded-2xl border-4 border-neutral-800 p-4">
+                <SiFlutter className="text-7xl text-blue-400" />
             </motion.div>
         </div>
         </div>

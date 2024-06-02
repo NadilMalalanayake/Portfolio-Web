@@ -1,11 +1,11 @@
 import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
-import project3 from "../assets/projects/project-3.jpg";
-import project4 from "../assets/projects/project-4.jpg";
+import project3 from "../assets/projects/project-3.png";
+import project4 from "../assets/projects/project-4.jpeg";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `Welcome to my personal website! I am an undergraduate student at the University of Westminster, where I am pursuing my academic and career aspirations. Here, you'll find insights into my journey, projects, and experiences as I navigate through university life and beyond. Stay tuned for updates on my latest endeavors and feel free to connect with me!`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT ='Hello! I am an undergraduate student at the University of Westminster, currently pursuing a degree in Software Engineering. My academic journey has been a blend of theoretical knowledge and practical experience, allowing me to develop a strong foundation in various programming languages and technologies. During my time at university, I have completed numerous projects that align with my career aspirations. These projects have enabled me to gain hands-on experience and enhance my skills in several key areas CSS, JavaScript, Flutter, React .I am passionate about leveraging technology to solve real-world problems and am constantly seeking opportunities to learn and grow in the field of software engineering. Feel free to explore my projects and connect with me to discuss potential collaborations or career opportunities!';
 
 export const EXPERIENCES = [
   {
